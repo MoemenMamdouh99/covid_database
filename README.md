@@ -6,6 +6,7 @@ Warning Johns Hopkins University has stopped publishing on confirmed COVID-19 ca
 Analyzing covid data using SQL server
 =========================================
 We divide the dataset into two excel files one for deaths and the other for vaccinations for easier analysis
+and here is the link of the data used in the SQL query ====> https://drive.google.com/file/d/1AJZnpZZ31u18_EoKlGMu_6_ayH0nV-PA/view?usp=sharing
 
 Exploring our data 
 ====================
